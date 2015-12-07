@@ -10,19 +10,19 @@
       <key>kind</key>
       <string>software-package</string>
       <key>url</key>
-      <string>http://p.ios.dev.anjuke.com/apps/AnjukeBroker_New/ipa/i-anjuke_Ver6.0Ver20151207.a.ipa</string>
+      <string>http://mobile.dev.anjuke.com/ipa/broker.ipa</string>
      </dict>
      <dict>
       <key>kind</key>
       <string>display-image</string>
       <key>url</key>
-      <string>http://p.ios.dev.anjuke.com/apps/AnjukeBroker_New/ICON.png</string>
+      <string>http://mobile.dev.anjuke.com/ipa/static/broker/ICON.png</string>
      </dict>
      <dict>
       <key>kind</key>
       <string>full-size-image</string>
       <key>url</key>
-      <string>http://p.ios.dev.anjuke.com/apps/AnjukeBroker_New/ICON@2x.png</string>
+      <string>http://mobile.dev.anjuke.com/ipa/static/broker/ICON@2x.png</string>
      </dict>
     </array>
     <key>metadata</key>
